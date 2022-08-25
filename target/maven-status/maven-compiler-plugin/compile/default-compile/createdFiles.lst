@@ -1,6 +1,7 @@
 ca/fangyux/adminapp/utils/exception/LoginAcctAlreadyExistException.class
 ca/fangyux/adminapp/utils/Props.class
+ca/fangyux/adminapp/utils/Utils.class
 ca/fangyux/adminapp/utils/exception/AccessForbiddenException.class
 ca/fangyux/adminapp/utils/ResultEntity.class
-ca/fangyux/adminapp/utils/Utils.class
 ca/fangyux/adminapp/utils/exception/LoginFailedException.class
+ca/fangyux/adminapp/utils/exception/LoginAcctAlreadyExistForUpdateException.class
