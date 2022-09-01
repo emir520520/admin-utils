@@ -9,9 +9,9 @@ import lombok.*;
 @Setter
 public class ResultEntity<T> {
 
-    private static String success="SUCCESS";
+    public static String success="SUCCESS";
 
-    private static String fail="FAIL";
+    public static String fail="FAIL";
 
     //用来封装当前请求结果
     private String result;
